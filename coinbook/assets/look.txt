@@ -1,0 +1,19 @@
+instrs=<font face="Arial" size="12">Roll over this coin to see just how much one little piece of <font color="#990000"><a href="javascript:openGlos('glossary/m/minting.html','greg')"><u>minted</u></a></font> metal can tell us</font face>
+
+&area1=denomination (5 mohur)
+
+&area2=denomination (5 mohur)
+
+&area3=regnal date
+
+&area4=emperor's name
+
+&area5=emperor's title
+
+&something=<font face="Arial" size="12"><b><u>poem</u></b><br><br>To Shah Jahangir belongs the whirligig of Time<br>In Agrah by his name gold shines brightly<br>So long as the pomp of the Five Guards lasts in the world,<br>May the stamp of his Five Mohurs be current.</font face>
+
+&area6=mint name
+
+&area7=date
+
+&area8=floral motif

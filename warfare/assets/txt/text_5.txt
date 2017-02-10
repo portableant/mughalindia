@@ -1,0 +1,1 @@
+text_field=This dagger's handle shows a horse's head carved in blue-grey hardstone.<br><font color="#666666">oa+1130</a></font>&text_type="d"

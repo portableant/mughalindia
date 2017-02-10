@@ -1,0 +1,68 @@
+intro=<font face="Arial" size="12">Roll over the sites plotted on the map to see which mint marks they used. Look for the mint marks on the coins below, and drag them onto the map when you think you have found a match.</font face>
+
+&coin5=<font face="Arial" size="12"><B><U>Fish and Flag</U></B><BR>Placed near to the Ganges,  this mint's position made it easy for transportation and trade.</font face>
+
+&place5=<font face="Arial" size="12"><B>Lucknow</B></font face>
+
+&mintname5=<font face="Arial" size="14"><B>Lucknow mint</B></font face>
+
+&coin4=<font face="Arial" size="12"><B><U>Cannon</U></B><BR>Fighting emblems were always popular, because they were considered a sign of strength.</font face>
+
+&place4=<font face="Arial" size="12"><B>Gwalior</B></font face>
+
+&mintname4=<font face="Arial" size="12"><B>Sheopur mint</B></font face>
+
+&coin1=<font face="Arial" size="12"><B><U>Sword</U></B><BR>Fighting emblems were always popular, because they 	were considered a sign of strength.</font face>
+
+&place1=<font face="Arial" size="12"><B>Jodhpur</B></font face>
+
+&mintname1=<font face="Arial" size="12"><B>Pali mint</B></font face>
+
+&coin9=<font face="Arial" size="12"><B><U>Star/ Sun</U></B><BR>The Mughals were interested in the lunar and solar calendars - a fact reflected in their mint-marks.</font face>
+
+&place9=<font face="Arial" size="12"><B>Hyderabad</B></font face>
+
+&mintname9=<font face="Arial" size="12"><B>Aurangabad mint</B></font face>
+
+&coin6=<font face="Arial" size="11"><B><U>Five petal flower</U></B><BR>Here, the ruling English use an Indian emblem - the lotus flower. The lotus represents Lakshmi, a Hindu goddess who stood for wealth.</font face>
+
+&place6=<font face="Arial" size="12"><B>Calcutta</B></font face>
+
+&mintname6=<font face="Arial" size="11"><B>Murishudabad mint</B></font face>
+
+&coin8=<font face="Arial" size="12"><B><U>Elephant goad</U></B><BR>Goads were tools designed to control elephants, which were used as fierce fighting weapons.</font face>
+
+&place8=<font face="Arial" size="12"><B>Baroda</B></font face>
+
+&mintname8=<font face="Arial" size="12"><B>Ahmadabad mint</B></font face>
+
+&coin3=<font face="Arial" size="12"><B><U>Pistol</U></B><BR>Fighting emblems were always popular, because they were considered a sign of strength.</font face>
+
+&place3=<font face="Arial" size="12"><B>Dholpur</B></font face>
+
+&mintname3=<font face="Arial" size="12"><B>Dholpur mint	</B></font face>
+
+&coin7=<font face="Arial" size="12"><B><U>Sun face</U></B><BR>The rulers of Indore claimed to be descendants of the sun.</font face>
+
+&place7=<font face="Arial" size="12"><B>Indore</B></font face>
+
+&mintname7=<font face="Arial" size="12"><B>Malharnagar mint</B></font face>
+
+&coin2=<font face="Arial" size="12"><B><U>Branch</U></B><BR>Flowers and shrubs often held religious significance in India.</font face>
+
+&place2=<font face="Arial" size="12"><B>Jaipur</B></font face>
+
+&mintname2=<font face="Arial" size="12"><B>Jaipur mint</B></font face>
+
+&coin10=<font face="Arial" size="12"><B><U>Crescent</U></B><BR>The Mughals were interested in the lunar and solar calendars - a fact reflected in their mint-marks.</font face>
+
+&place10=<font face="Arial" size="12"><B>Mysore</B></font face>
+
+&mintname10=<font face="Arial" size="12"><B>Mysore mint</B></font face>
+
+
+
+
+
+
+

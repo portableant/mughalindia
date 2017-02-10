@@ -1,0 +1,59 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         14063          14063        Scene 1
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                           0           128
+
+Embedded Objects                561             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+bookcase_back                     0             0
+text_graphic                      0             0
+hitarea                          43             0
+inv_button                        0             0
+fill                              0             0
+Symbol 51                         0             0
+Symbol 42                         0             0
+copyright                         0             0
+print                             0             0
+html                              0             0
+home                              0             0
+staff_button                      0             0
+dummy                             0             0
+coder                             0             0
+text_words                        0             0
+box                               0             0
+buttons                           0             0
+label_bckgrd                     43             0
+bckgrd                            0             0
+top                              46             0
+cover                             0             0
+shadow                           45             0
+bbbbbbutton                      42             0
+Preloader                         0             0
+mask                              0             0
+pop                               0            40
+rectangle                         0             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+back_1.gif copy                  160        2576   Lossless
+bookcase_thumbNail.jpg          4151        3960   title.png                       1108       23380   
+trustees.gif                     989        7800   
+staff3.png                       466       10080   
+staff2.png                       470       10080   
+staff1.png                       467       10080   
+home3.png                        291        5320   
+home2.png                        296        5320   
+home1.png                        292        5320   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Arial                          20        
+_sans                          20        

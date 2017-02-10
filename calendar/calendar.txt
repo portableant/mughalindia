@@ -1,0 +1,21 @@
+&introduction=Whereas the western calendar usually gives dates as AD or BC, the letters AH indicate that the Islamic calendar is in use. 
+The Islamic calendar began in AD 622 when the prophet Muhammad fled from Mecca to Medina. 
+Also, because the Islamic calendar is based on the lunar year, it is shorter than the western solar calendar year. That means at least 622 years must be subtracted from an Islamic date to get a rough idea of the western equivalent.
+&instructions=Use the converter below to get an accurate date translation
+&photo01=Working in the rice fields
+&photo02=Itimaduddaula's tomb, Agra (father of Nur Jahan)
+&photo03=Rice is grown in areas of plentiful rainfall
+&photo04=Looking after the rice crops
+&photo05=Women wearing colourful saris
+&photo06=Gathering the rice crop
+&photo07=Elephant transport
+&photo08=Gathering wood in the mountains
+&photo09=Poly-lobed arch
+&photo10=A monkey resting by a shady temple
+&photo11=An explosion of colour at the market
+&photo12=Market 
+&photo13=Herbs and spices for sale
+&photo14='Palace of the Winds,' a Rajput royal residence, Jaipur
+&photo15=Basic living conditions in the countryside
+&photo16=
+&photo17=Sari fabrics at the market 

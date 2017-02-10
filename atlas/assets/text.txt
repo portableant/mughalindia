@@ -1,0 +1,13 @@
+page1=The first Mughal emperor Babur, ruled his modest kingdom from Kabul, an important stronghold in what is now Afghanistan. He tried to extend his kingdom to the North, but failed.<br><br>It was not until 1525 that he turned his attention to India.
+
+&page2=Two key battles in Panipat and Khanwa secured Mughal rule. The empire continued to grow, but after Babur's death in 1530, his son Humayan struggled to keep the empire strong.<BR><BR>~ 1526 		Battle of Panipat 	WON<BR>~ 1527		Battle of Khanwa	WON<BR>~ 1539		Battle of Chausa	LOST<BR>~ 1540		Battle of Bilgram	LOST
+
+&page3=After several defeats in 1540, a dejected Humayun was pushed further and further westwards, until he was eventually forced to seek refuge in Persia under the care of Shah Tahmasp.<BR><BR>In his place the Sur dynasty ruled, whose name was taken from the name of Sher Shah's tribe.<br><br>Humayun was fifteen years off the throne, but eventually clawed his way back to power in 1555.
+
+&page4=Humayan briefly lost the Mughal Empire to Sher Shah of Sur between 1540 and 1555.<br><br>When Humayan eventually won it back after a great deal of treachery and suffering, a lot of damage had already been done. The Mughal Empire had shrunk, but it would take Humayan's son Akbar, to restore it to its former glory and more.<BR><BR>~ 1555		Battle of Dipalipur	WON.
+
+&page5=It was Akbar who took a weak and unstable kingdom, and turned it into a strong, rich and stable empire.<br><br>By his death in 1605, Northern India and much of the Deccan were either fully, or partly integrated into the Mughal Empire.<BR><BR>~ 1568		Battle of Chitor 	WON
+
+&page6=The two emperors following Akbar, Jahangir and Shah Jahan, brought even more growth to the Mughal Empire. Aurangzeb, the last of the great Mughal emperors, saw the empire at its largest.<br><br>When he died in 1707, it was the beginning of the end for the famous and hugely successful Mughal Empire.&
+
+&page7=Mughal Expansion Summary

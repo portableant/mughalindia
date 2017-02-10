@@ -1,0 +1,36 @@
+title=<font face="Arial" size="14"><B>Money Talks -</B></font face>
+
+&page1=<font face="Arial" size="12">What coins can tell us?<BR><BR>It may seem at first glance, that one coin looks pretty much like another. However coins include many pieces of information which can help a <font color="#990000"><a href="javascript:openGlos('glossary/n/numismatist.html','numi')"><u>numismatist</u></a></font> uncover its secrets. Not necessarily in this order, a numismatist may consider some of the questions on this checklist to the left: </font face>
+
+&page2=<font face="Arial" size="12">Indian coins were made out of copper, silver or gold. The majority of coins were 'coppers' - low value coins used in the day-to-day buying and selling between peasants and labourers. Gold and silver coins were much rarer and were used by wealthy traders or given as gifts by the emperor. Pure gold does not <font color="#990000"><a href="javascript:openGlos('glossary/t/tarnished.html','tarn')"><u>tarnish</u></a></font> or <font color="#990000"><a href="javascript:openGlos('glossary/c/corrode.html','corr')"><u>corrode</u></a></font>, unlike silver and copper coins which do. </font face>
+
+&caption2=<font face="Arial" size="10">A silver rupee turned black because of exposure. </font face>
+
+&page3=<font face="Arial" size="12">The weight and size of a coin can tell us how 'pure' it is. Is it solid gold, or has the gold been mixed with another metal <font color="#990000"><a href="javascript:openGlos('glossary/a/alloy.html','allo')"><u>(alloy)</u></a></font> for example? <br><br>Pure gold weighs exactly twice as much as an <font color="#990000"><a href="javascript:openGlos('glossary/e/equivalent.html','equi')"><u>equivalent</u></a></font> piece of pure silver, for example.</font face>
+
+&caption3=<font face="Arial" size="10">A ½ mohur, solid gold coin.</font face>
+
+&page4=<font face="Arial" size="12">Whether a coin is genuine or not, was as much a concern for those buying and selling with them then, as it is for collectors today.<br><br>You will often see little nicks cut into coins' edges where wary customers have checked that the metal is the same throughout. Coins were also weighed - pure gold weighs exactly twice as much as silver, for example. </font face>
+
+&caption4=<font face="Arial" size="10">Silver coin with nick.</font>
+
+&page5=<font face="Arial" size="12">A 'denomination' is a unit of value. In pounds sterling for example, there are denominations of 1 penny, 2 pence, 5 pence, 10 pence and so on.<br><br>The Mughals had a large range of coin <font color="#990000"><a href="javascript:openGlos('glossary/d/denominations.html','deno')"><u>denominations</u></a></font> which was a relatively new development and tells us that from Akbar's reign, the Mughals were well organized with a stable economy. </font face>
+
+&caption5=<font face="Arial" size="10">A 5 mohur coin.</font>
+
+&page6=<font face="Arial" size="12">Coins are usually reliable historical <font color="#990000"><a href="javascript:openGlos('glossary/s/sources.html','sour')"><u>sources</u></a></font>, often stamped with their production date. Dates on Mughal coins can also mark the emperor's reign or different religious eras. Because the Mughals were <font color="#990000"><a href="javascript:openGlos('glossary/m/muslim.html','musl')"><u>Muslims</u></a></font>, their calendar begins in 622 AD when the prophet <font color="#990000"><a href="javascript:openGlos('glossary/m/muhammad.html','muha')"><u>Muhammad</u></a></font> fled from Mecca. The Muslim calendar is also based on the <font color="#990000"><a href="javascript:openGlos('glossary/l/lunar.html','luna')"><u>lunar</u></a></font> year of 354 days which is shorter than the <font color="#990000"><a href="javascript:openGlos('glossary/g/gregorian.html','greg')"><u>Gregorian calendar</u></a></font> year. </font face>
+
+&caption6=<font face="Arial" size="10">The date on this coin is AH 1280.</font face>
+
+&page7=<font face="Arial" size="12">Once you have worked out the date on a coin, you can then tell who was in power.<br><br>Coins often state the ruler's name or provide a portrait of them. Portraiture was <font color="#990000"><a href="javascript:openGlos('glossary/c/controversial.html','cont')"><u>controversial</u></a></font> for the Mughals because <font color="#990000"><a href="javascript:openGlos('glossary/i/islam.html','isla')"><u>Islam</u></a></font> traditionally forbids images of humans. Only those emperors who were less strict <font color="#990000"><a href="javascript:openGlos('glossary/g/muslim.html','musl')"><u>Muslims</u></a></font> were willing to have their coins stamped with their portraits. </font face>
+
+&caption7=<font face="Arial" size="10">A portrait coin of Emperor Jahangir.</font face>
+
+&page8=<font face="Arial" size="12">A <font color="#990000"><a href="javascript:openGlos('glossary/n/numismatist.html','numi')"><u>numismatist</u></a></font> will look for symbols on coins such as mint names and mint marks. A mint is where coins are produced, and a 'mint mark' is their signature stamp.<br><br>In Mughal India there were over 180 mints with even more mint marks. Mints did not always stick to one mark, but would change them for special occasions. </font face>
+
+&caption8=<font face="Arial" size="10">The dagger mint mark on this coin tells us that it was made in the Pali mint in Jodhpur. </font face>
+
+&page9=<font face="Arial" size="12">If a coin has Persian writing on it, and appears to have two lines dividing the space into three sections, then it is very likely to be a Mughal coin. These are not dividing lines as they may first appear, but rather ornate extensions of Persian letters. </font face> 
+
+&caption9=<font face="Arial" size="10">Typical Mughal coin with clear,dividing lines which are actually Persian letters.</font face>
+

@@ -1,0 +1,31 @@
+&item1title=Lake crimson
+&item1text=The bright red colour of <i>lake crimson</i> comes from the tiny lac insect. <br><br>The word lac is the English version of Persian and Hindi words that mean 'a hundred thousand,' indicating the high numbers of these tiny insects needed to produce the red lac paint. The lac insect also produces a sticky substance which the Chinese used to create <font color="#660000"><a href="javascript:openGlos('glossary/l/lacquerware.html','lacq')"><u>lacquer ware</u></a></font>.
+
+&item2title=Orpiment
+&item2text=Orpiment is a transparent yellow mineral formed as a deposit in hot springs. <br><br>Because of its <font color="#660000"><a href="javascript:openGlos('glossary/a/arsenic.html','arse')"><u>arsenic</u></a></font> properties, orpiment is toxic. The Indian word for orpiment yellow is <i>hartal</i>.
+
+&item3title=Malachite
+&item3text=Malachite is the oldest known green <font color="#660000"><a href="javascript:openGlos('glossary/p/pigment.html','pigm')"><u>pigments</u></a></font>. <br><br>Green has special significance in Mughal painting because green is the colour associated with the prophet <font color="#660000"><a href="javascript:openGlos('glossary/m/muhammad.html','muha')"><u>Muhammad</u></a></font>. 
+
+&item4title=Peori
+&item4text=Peori yellow is a colour unique to India, and is made from the urine of cows that have been fed on a diet of mango leaves!<br><br> It is not surprising that the smell of peori or Indian yellow, is unpleasant. 
+
+&item5title=Indigo
+&item5text=Indigo is the rich blue dye extracted from the indigo plant. <font color="#660000"><a href="javascript:openGlos('glossary/m/marcopolo.html','marc')"><u>Marco Polo</u></a></font> first reported on the production of indigo in India in the 13th century, and it was later enthusiastically traded with Europe. <br><br>It is easy to see how Europeans came to call the blue colour that was imported from India, indigo. However in India, indigo is called <i>nil</i>, the Indian word for 'blue.' 
+
+&item6title=Lapis lazuli
+&item6text=Lapis lazuli is the beautiful blue in Mughal paintings, as well as the pigment seen in the robes of the <font color="#660000"><a href="javascript:openGlos('glossary/v/virginmary.html','virg')"><u>Virgin Mary</u></a></font> in many <font color="#660000"><a href="javascript:openGlos('glossary/r/renaissance.html','rena')"><u>Renaissance</u></a></font> paintings. Lapis lazuli is a bright blue mineral, its name taken from the Latin for stone, <i>lapis</i> and blue, <i>azul</i>. <br><br>Lapis lazuli is a particularly rare and expensive mineral, which is why the colour is so <font color="#660000"><a href="javascript:openGlos('glossary/r/revered.html','reve')"><u>revered</u></a></font>. In Europe, the colour blue made from lapis lazuli came to be known as <i>ultra-marine</i>, which means 'over the sea'  a reference to the trade in the precious mineral.
+
+&item7title=Vermillion
+&item7text=The rich red colour known in Europe as vermillion comes from the mineral, <i>cinnabar</i>. An <font color="#660000"><a href="javascript:openGlos('glossary/o/ore.html','ore')"><u>ore</u></a></font> of mercury and sulphur, <i>ciar</i> is poisonous so artists must use it with care. <br><br>The picture is not cinnabar in its natural state, but after it has been ground up, heated and purified - a process called 'subjugation.'
+
+&item8title=Red lead
+&item8text=Red lead is a more orange-red than the more crimson-coloured, <font color="#660000"><a href="javascript:openGlos('glossary/v/vermillion.html','verm')"><u>vermillion</u></a></font>. <br><br>Red lead or <i>sindoor</i> is sacred to Hindus and is used in their religious ceremonies and marriages. <i>Sindoor</i> is often the pigment used for the dot called a <i>bindi</i> Hindu women wear on their foreheads. A red bindi is usually a sign that a woman is married.
+
+&successText=All correct! Well done!
+
+&failText=Keep trying!
+
+&intro1=Click on the tubes of paint to learn how they were made
+&intro2=Look for clues that link the paints to the pictures of materials
+&intro3=When you have found a match, drag the icon to the box alongside your chosen tube of paint

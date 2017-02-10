@@ -1,0 +1,1 @@
+text_field=This ornate gold axe called a bhuj hides a lethal secret. The base of the handle unscrews to reveal a spike-like dagger.<br><font color="#666666">oa1878.12-30.815</a></font>&text_type="a"

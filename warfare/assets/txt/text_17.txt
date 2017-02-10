@@ -1,0 +1,3 @@
+text_field=Swords were very important to their owners. They were respected as tools of destruction, protection and good luck.<br><br>This sword handle or 'hilt' inlaid with jade is a fine example.<br><font color="#666666">oa1878.12-30.883</a></font>
+
+&text_type="a"

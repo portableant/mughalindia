@@ -1,0 +1,15 @@
+Intro=Can you order the sequence of events that a coin must go through in the production process?<br><br>Drag the elements of the Mughal painting into the correct order, and you will see a coin minted.
+
+&stage1=Blank coins or 'flans' are brought in bags, ready for striking.
+
+&stage2=A blank coin is placed between two dies. The dies are engraved with a design for each side of the coin.
+
+&stage3=This man prepares to strike the punch die with a hammer. The blank metal coin will have been softened first, to take the dies' design.
+
+&stage4=Newly struck coins are bagged up ready for checking.
+
+&stage5=This official checks that the weights of the newly struck coins are correct. 
+
+&stage6=Bags of completed coins are stored safely in a chest, ready for distribution. 
+
+&congratulations=Well done! You now know how a coin is minted. Now see the process unfold before your eyes.

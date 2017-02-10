@@ -1,0 +1,37 @@
+ body {
+	background-color: #000000;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+}
+td.main {
+	background-color : #ecdfc7;
+	width : 500px;
+	color : Black;
+	background-image : url(images/paper_sm.jpg);
+}
+H3 {
+	text-align : center;
+}
+.extra {
+	color : #454545;
+	background-color : White;
+}
+.line_w {
+	width : 400px;
+	padding-left : 30px;
+}
+

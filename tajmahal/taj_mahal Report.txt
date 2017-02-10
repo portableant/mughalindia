@@ -1,0 +1,107 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1          4384           4384        loader
+    2          1669           6053          2
+    3           208           6261          3
+    4          2197           8458          4
+    5        119968         128426        main
+    6          4628         133054          2
+    7           144         133198          3
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+loader                            0            35
+main                              0            89
+
+Embedded Objects                196             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+calligr_button                  257             0
+container                         0             0
+holder                            0             0
+carving                         622             0
+pietra_button                     0             0
+plant_button                     86             0
+geom_button                     392             0
+rev_Button                       42            72
+gardens_buuton                   44             0
+mosque_button                    44             0
+turret_buttons                  243             0
+information                       0             0
+rotate.swf                        0             0
+loading                           0            49
+emptyClip                         0             0
+nextframe                         0             0
+calligra                          0             0
+minarets                        169             0
+towers_button                   178             0
+window_button                    93             0
+back_button                       0           122
+more_button                       0           123
+dom_button                       90             0
+arch_hotSpot                     96             0
+previous_button                   0           126
+nextButton                        0           128
+main_movie                        0          4407
+button_menu                       0            40
+text_bckgrd                      45             0
+button                           44             0
+bands                            62             0
+taj01.swf                        46             0
+taj21.swf                        46             0
+taj10.swf                        46             0
+taj42.swf                        46             0
+taj02.swf                         0             0
+Symbol 9                         82             0
+pic42                             0             0
+pic21                             0             0
+pic10                             0             0
+pic1                              0             0
+Symbol 4                          0             0
+Symbol 3                          0             0
+Symbol 2                          0             0
+Symbol 1                          0             0
+Preloader                        38            48
+fill_preloader                   37             0
+mask                             44             0
+image_display                     0             0
+text_grpahic                      0            42
+carousel_small mask              42             0
+frameChecker                      0            41
+calligraphy2                      0             0
+vr Controls                       0            98
+ pieSymbol                        0             0
+baseCircle                       73             0
+rightHalf                         0             0
+rightHalfCircle                  75             0
+square                           39             0
+leftHalf                          0             0
+leftHalfCircle                   75             0
+Symbol 10                         0            74
+Symbol 11                       101             0
+indicator                        36             0
+line                             27             0
+vrViewerSymbol                    0             0
+hand _ fist                       0             0
+hand _ open                       0             0
+hand cursor                       0             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+calligraphy2.jpg                9217      186160   Imported JPEGcalligraphy1.jpg               12431      186160   Bitmap 12                      12879      290400   =80
+Bitmap 14                      21206      290400   =80
+Bitmap 13                      17991      290400   =80
+Bitmap 15                      19451      290400   =80
+fist.gif                          74         256   
+hand.gif                          89         256   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Arial Bold                     20        
+Arial                         633        adgilno
+Verdana                        22        
+_sans                          20        

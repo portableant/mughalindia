@@ -1,0 +1,129 @@
+
+&button1=The Taj Mahal
+&button2=Architectural Features
+&button3=Decorative Features
+&button4=The Rest of the Taj Mahal
+&button5=A day in the Life of ...
+
+&next = next...
+&previous=...previous
+
+&title1=The Taj Mahal
+&text1=<font face="Arial" size="12">One of the most famous buildings in the world, the Taj Mahal was built by Emperor Shah Jahan in loving memory of his favourite wife Mumtaz Mahal. Mumtaz had a great deal of influence over the emperor, regularly advising him in affairs of state. However in 1631 after only three years in power, Shah Jahan's wife died giving birth to their fourteenth child. In his grief, Shah Jahan set about planning a magnificent mausoleum - a memorial tomb - for Mumtaz.</font>
+
+&caption2=Mosque
+&text2=<font face="Arial" size="12">It took 20,000 labourers twenty-two years to complete Shah Jahan's vision. Built in white marble, the Taj Mahal was decorated with semi-precious gems from all over the world; jade and crystal from China, turquoise from Tibet and lapis lazuli from Afghanistan. The main tomb is flanked by a mosque and a guest house, and is set in a traditional Islamic, formal garden called a charbagh, and is walled in with red sandstone.</font>
+
+&caption3=Shah Jahan
+&text3=<font face="Arial" size="12">It was Shah Jahan's passion for architecture that saw the Mughal empire add some of its most beautiful and impressive buildings to its heritage. The Taj Mahal is the pinnacle of Shah Jahan's ambition, a visual summary of the wealth and splendour of the Mughal Empire, and a fitting tribute to the thousands of skilled craftsmen and women who worked on it.</font>
+
+&title4=Architectural Features
+&text4=<font face="Arial" size="12">Roll over and click on the model to discover more about the architectural features of the Taj Mahal.</font>
+
+&title5=Iwan
+&text5=<font face="Arial" size="12">Originally found in mosques and madrasas, the Mughal emperors adopted the iwan as an impressive entrance for their mausoleums. The iwan is a large archway in the centre of a building's facade. It always has one side open to the exterior and makes for a striking central feature. There are four iwans to the Taj Mahal, one on each side.</font>
+
+&title6=Dome
+&text6=<font face="Arial" size="12">Also known as cupola, the dome is probably the most famous characteristic feature of Mughal architecture. Symbolically tied to Islam, the dome is meant to represent the vault of heaven and God's throne, through which the rivers of grace are said to run. The dome on the Taj Mahal is a double dome - one inside the other.</font>
+
+&caption7=Examples of domes
+&text7=<font face="Arial" size="12">Domes come in many shapes and sizes each playing an important part in the overall visual impact of a building. Some domes are bulbous as they are on the Taj Mahal, whilst others are more squat, hemispherical domes.</font>
+
+&title8=Arches
+&text8=<font face="Arial" size="12">Arches dominate Mughal architecture. Their curving lines cover walkways called porticoes, or crown arcades, windows and doorways. The Mughals perfected the use of the arch using many different styles in their buildings.</font>
+
+&title10=Minaret
+&caption10=Two of the four minarets that border the Taj Mahal. 
+&text10=<font face="Arial" size="12">These tower-like structures called minarets, were originally built next to mosques so that the muezzin could be heard calling Muslims to prayer from the top. They are often built in pairs or fours to provide balance to the architectural design, and because the number four is considered symbolically 'perfect' in Islam.</font>
+
+&caption11=Examples of minarets
+&text11=<font face="Arial" size="12">A chattri is a domed kiosk supported by columns. Four chattris on the Taj Mahal surround the central dome making the building look balanced.</font>
+
+&title12=Chattri
+&caption12=Examples of chattris
+&text12=<font face="Arial" size="12">A chattri is a domed kiosk supported by columns. Four chattris on the Taj Mahal surround the central dome making the building look balanced.</font>
+
+&title13=Turrets
+&caption13=Small turrets crown the Taj Mahal.
+&text13=<font face="Arial" size="12">Turrets are small, decorative towers without stairways, built into the angles of buildings. They help make the Taj Mahal look light and airy.</font>
+
+&title14=Decorative Features
+&text14=<font face="Arial" size="12">Roll over and click on the model to discover more about the decorative features of the Taj Mahal.</font>
+
+&title15=Calligraphy
+&caption15=Qur'anic calligraphy borders the doorways to the Taj Mahal
+&text15=Because Islam forbids any representation of God and restricts images of the human figure for fear of idolatry in a religious setting, calligraphy is often used in decoration. Calligraphers developed different script designs to cover the walls of buildings with poetry and verses from the Qur'an.
+
+&title16=Geometric Pattern
+&caption16=Chevron decoration on the Taj Mahal.
+&text16=Commanded not to worship idols, combined with a desire to express the order of Islam, Muslim artists use geometric patterns and designs to decorate buildings. In Islamic art, infinitely repeating patterns like these chevrons on the Taj's turrets, represent the unchanging laws of God.
+
+&title17=Plant life
+&caption17=Plant decoration on the Taj Mahal.
+&text17=Because Islam forbids any representation of God and restricts images of the human figure for fear of idolatry in a religious setting, leaves and flowers are often used in decoration. The arabesque is a popular Islamic motif, creating patterns of intertwining leaves in a curving vine. When presented in a full vase or purna-kalasa, flowers may represent the rewards that await the Muslim in paradise.
+
+&title18=Pietra dura
+&caption18=Pietra dura decoration on the Taj Mahal.
+&text18=The white marble of the Taj Mahal is intricately decorated with	pietra dura. To create the pietra dura inlay, craftsmen cut a design into the marble and expertly inlay pieces of brightly coloured semi-precious stones to create the form of flowers, arabesques and geometric patterns. The final mosaic is polished to a high sheen.
+
+&title19=Carving
+&caption19=
+&text19=The Taj Mahal, like most Islamic buildings, is highly decorated, with hardly a plain surface in sight. As well as pietra dura inlay, walls, domes and turrets are intricately carved in shallow reliefs of sculpted flowers.
+
+&title20=The Rest of the Taj Mahal
+&caption20= 
+&text20=The image of the Taj Mahal mausoleum is so famous that people often do not realise that it is just one part of a much wider complex of buildings and gardens.
+
+&title21=
+&caption21=Mosque alongside the Taj Mahal mausoleum.
+&text21=Either side of the main tomb are other impressive buildings, the first a mosque, and the second a guesthouse. The guesthouse is a mirror image of the mosque, in keeping with the Taj Mahal's symmetrical balance. However, it cannot function as a mosque because it does not face Mecca, an Islamic requirement for a place of worship. 
+
+&title22=
+&caption22=The Taj Mahal as seen from the Yamuna River.
+&text22=Spread out before the main tomb like an impressive patchwork blanket, are the gardens. The Yamuna River was diverted so that the view from the finished tomb would be improved, and it is this river's waters which irrigate the gardens and run through the water features and fountains of the Taj Mahal.
+
+&title23=
+&caption23=Gateway to the Taj Mahal with garden.
+&text23=These features are enclosed by a red sandstone wall, which is completed by an impressive gateway. All these different elements work together to create what was intended to resemble paradise on earth.
+
+&title24=The Mosque
+&caption24=The mosque that flanks the Taj Mahal mausoleum.
+&text24=The mosque is a place of worship for Muslims. The first mosque was the house of the prophet Muhammad, and mosques built since have been based loosely on that original design. The minimum requirement of a mosque is that the Muslim must face Mecca when he or she is praying. Prayers are supposed to be humble, away from material distractions that could encourage idolatry.
+
+&title25=
+&caption25=
+&text25=Another key feature is a courtyard surrounded by arched walkways called arcades. In this courtyard there is often an area where worshippers can wash at an ablutions fountain before praying. This leads to a roofed area - the main prayer hall. Part of  this roof often takes the form of a dome, which represents the heavens. The prayer-hall must have one wall facing Mecca which is called the qibla wall. In the qibla wall is the mihrab, which is the focus point of any mosque, and is a niche in the wall indicating the direction of Mecca. The minbar, or pulpit, is set to the right of the mihrab, and is a staircase which leads to a small platform. It is from here that the imam leads the prayers and delivers the khutba, or lesson.
+
+&title26=
+&caption26=Teaching in the courtyard of a mosque.
+&text26=The dikka is a platform, where the muezzins follow the postures of the imam and speak the responses so that the prayer can be repeated to the congregation. The kursi is a stand on which the Qur'an, Islam's holy book, sits. The minaret is a tower usually directly next to the mosque. From the top the muezzin calls Muslims to prayer.
+
+&title27=The Paradise Garden - the Charbagh
+&caption27=A Mughal painting with a charbagh garden.
+&text27=<font face="Arial" size="12">In Islamic tradition, paradise is a garden. It was the first Mughal emperor Babur who brought his love of gardens to India. It is easy to see how the greenery, coolness and water features of a beautiful garden would have refreshed a weary soldier, exhausted after the exploits of war.</font>
+
+&title28=
+&caption28=
+&text28=<font face="Arial" size="12">Babur and his descendents particularly loved the charbagh garden design. In Islam, four is the most auspicious of all numbers, and so the charbagh garden is organised around a quadrant plan. Most of the features of the Taj Mahal are arranged around the number four; four minarets, four small domes on the main building, and four doors and so on.</font>
+
+&title29=
+&caption29=
+&text29=<font face="Arial" size="12">Similarly, the theme of four is repeated in the garden's layout. Four large square lawns are divided into sixteen flowerbeds, each bed containing four hundred different flowering plants.  Water courses divide these four lawns, and are meant to represent the rivers of paradise. In fact, the word 'paradise' is a translation of the Persian word 'pairidaeza', meaning a walled garden.</font>
+
+&title30=A Day in the Life of ... a builder on the Taj Mahal
+&caption30=
+&text30='Many hands make light work,' or so they say. Well, there are certainly thousands of us here, slaving in this endless heat - but we are still so far from completing the Emperor Shah Jahan's vision for his wife's tomb. Of course us labourers don't know what the final building will look like - but we know it will be splendid, and as it begins to take shape, we catch glimpses of its final glory.<br><br>The day starts early - it's best to work while the air is still cool. However, there is often a refreshing breeze that comes off the Yamuna River, a holy river for Hindus. Despite the physical hard work, there are benefits. There are so many different people from all over the world, places I have never heard of and can only dream about. All the different languages
+
+&title31=
+&caption31=
+&text31=mingle with the constant bangs and clatterings of our tools - Russian, Persian, Italian, Turkish and French. All the best artists and stonemasons, jewellers and craftspeople are gathered here. Only the best is good enough for Shah Jahan. He must have really loved his wife... the finest building in the entire world, built in her memory.<br><br>The Taj Mahal is being made of the best white marble, and we have been told that this is to be decorated with the finest gems and jewels from around the globe. There are to be jade and glittering crystals from China, turquoise from Tibet and gleaming, bright blue lapis lazuli from Afghanistan. It's as if the skills of the world are being used to pay tribute to Indian royalty.<br><br>When we first came to Agra, there was nothing here.
+
+&title32=
+&caption32=
+&text32=But us workers needed somewhere to stay, so a whole town was built near the site to house us all. It's called Mumtazabad, after Mumtaz Mahal.<br><br>The first work was the hardest. We had to clear an area the size of three football pitches ready for the foundations. This was to make sure that no water from the river would seep into the tomb. Next, it was a sixteen kilometre ramp that stretched from the city of Agra over to the site. It was the only way we could transport all the heavy slabs of marble and sandstone. Hundreds of elephants, buffaloes and oxen do the really heavy lifting and dragging. The rest of it is down to us. It's back-breaking work.<br><br>I spend most of my day up scaffolding made of wooden poles lashed together. I'm not a craftsperson, and I'm certainly no artist. My pay is
+&title33=
+&caption33=
+&text33=terrible, despite all the sweat, effort and long hours I put in. Usually my job is to hand whatever I'm passed on to the next person -a human chain if you like. If it's not too noisy, me and the other women can have a good gossip while we do this...<br><br>Surprised are you? Yes, women work alongside men here on building sites. It's hard work! They say this is going to take at least twenty years to finish - I don't know if my bones will last that long! They say too that it'll take 20,000 labourers. All this money and effort for one woman. Ironic really when you see all the jewels and finery and wealth that's going into a building for a person's memory, and here the living struggle and sweat for miserable pay, living in mud huts with barely enough to eat... Will it be worth it I wonder?
+
+
+

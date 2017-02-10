@@ -1,0 +1,1 @@
+text_field=This vicious-looking weapon was worn on the hand and used to slash the enemy.<br><br>Modelled on the claws of a tiger the wearer would appear to have talons in his fingers - a frightening sight.<br><font color="#666666">oa+6020</a></font>&text_type="a"

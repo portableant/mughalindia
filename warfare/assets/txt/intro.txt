@@ -1,0 +1,5 @@
+text=<font face="Arial"  size="14" color="#DDDDDD" >Explore the objects in this cabinet to find out more about warfare in Mughal India.<br><br>The curator has not yet had time to fix the labels with the correct objects. In order to gather as much information as possible you will need to identify the items and fix the correct labels to them.<BR><BR>Attach a label to the object by dragging it onto the plinth.  You can drag it off or drag a new label onto the plinth if you change your mind.  Use the                to move between objects.<BR><BR>Click on the objects to magnify them and to find out more information about warfare in Mughal India.</font>
+
+&allcorrect=<font face="Arial"  size="18" color="#DDDDDD" >Well done! You have placed all the labels correctly.<BR><BR>Play again for new objects.</font>
+
+&somecorrect_1=<font face="Arial"  size="18" color="#DDDDDD" >You have</font>&somecorrect_2=<font face="Arial"  size="18" color="#DDDDDD" >out of 7 objects labelled correctly.<BR><BR>Scroll back through the objects to amend your choices.</font>
